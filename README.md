@@ -14,6 +14,10 @@ Citire - vizualizarea elementeleor din lista de masini.<br>
 Actualizare - actualizarea listei de masini.<br>
 ![](CRUD/3-Actualizare.png)
 Stergere - stergerea unei masini.<br>
-![](CRUD/2-Stergere.png)
+![](CRUD/2-Stergere.png)<br>
+
+Pentru acest proiect am folosit programul PostgreSQL pentru crearea si vizualizarea bazei de date
+
+
 
 
