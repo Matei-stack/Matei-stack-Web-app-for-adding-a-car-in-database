@@ -10,6 +10,7 @@ Această aplicație respectă operațiunile CRUD, cum ar fi: <br>
 <br>
 Creare - adăugarea unei masini.<br>
 ![alt text](https://github.com/Matei-stack/Matei-stack-Web-app-for-adding-a-car-in-database/tree/main/CRUD/1-Creare.png?raw=true)<br>
+![My Image](https://github.com/Matei-stack/Matei-stack-Web-app-for-adding-a-car-in-database/tree/main/CRUD/1-Creare.png)
 Citire - vizualizarea elementeleor din lista de masini.<br>
 Actualizare - actualizarea listei de masini.<br>
 Stergere - stergerea unei masini.<br>
