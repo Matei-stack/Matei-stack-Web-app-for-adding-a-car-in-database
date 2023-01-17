@@ -9,7 +9,7 @@ Realizarea unei aplicatii web care sa permita adaugarea/ stergerea si bifarea sp
 Această aplicație respectă operațiunile CRUD, cum ar fi: <br>
 <br>
 Creare - adăugarea unei masini.<br>
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Matei-stack/Matei-stack-Web-app-for-adding-a-car-in-database/tree/main/CRUD/1-Creare.png?raw=true)<br>
 Citire - vizualizarea elementeleor din lista de masini.<br>
 Actualizare - actualizarea listei de masini.<br>
 Stergere - stergerea unei masini.<br>
