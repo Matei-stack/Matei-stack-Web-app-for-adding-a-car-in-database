@@ -19,5 +19,5 @@ Stergere - stergerea unei masini.<br>
 Pentru acest proiect am folosit programul PostgreSQL pentru crearea si vizualizarea bazei de date
 
 
-
+![](CRUD/4-pgAdmin.png)<br>
 
